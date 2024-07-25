@@ -1,0 +1,9 @@
+Main.class
+br\com\primeiroProjeto\modelo\dominio\Categoria.class
+br\com\primeiroProjeto\modelo\dominio\Perfil.class
+br\com\primeiroProjeto\modelo\dominio\RegistroVenda.class
+br\com\primeiroProjeto\modelo\dominio\Usuario.class
+br\com\primeiroProjeto\modelo\conexao\ConexaoMySql.class
+br\com\primeiroProjeto\modelo\dominio\Cliente.class
+br\com\primeiroProjeto\modelo\dominio\Produto.class
+br\com\primeiroProjeto\modelo\dominio\VendaItem.class
